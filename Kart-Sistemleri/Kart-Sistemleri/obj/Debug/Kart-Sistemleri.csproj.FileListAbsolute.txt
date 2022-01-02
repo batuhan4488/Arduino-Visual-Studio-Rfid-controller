@@ -1,0 +1,13 @@
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\bin\Debug\Kart-Sistemleri.exe.config
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\bin\Debug\Kart-Sistemleri.exe
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\bin\Debug\Kart-Sistemleri.pdb
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart_Sistemleri.Form1.resources
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart_Sistemleri.Properties.Resources.resources
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart-Sistemleri.csproj.GenerateResource.cache
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart-Sistemleri.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart-Sistemleri.exe
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart-Sistemleri.pdb
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart_Sistemleri.Form2.resources
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\bin\Debug\bç.mdb
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart-Sistemleri.csproj.AssemblyReference.cache
+C:\Users\batuhan\source\repos\Kart-Sistemleri\Kart-Sistemleri\obj\Debug\Kart_Sistemleri.Form3.resources
